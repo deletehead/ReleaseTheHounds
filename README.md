@@ -86,7 +86,7 @@ This project should be easy to install & set up. You may need to install `reques
 
 ```bash
 pip3 install requests
-git clone https://githu.com/deletehead/ReleaseTheHounds.git
+git clone https://github.com/deletehead/ReleaseTheHounds.git
 cd ReleaseTheHounds
 python3 ReleaseTheHounds -l <BHCE-SharpHound-zip-file>
 ```
